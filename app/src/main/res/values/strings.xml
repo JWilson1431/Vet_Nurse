@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Vet Nurse</string>
+
+    <string-array name="medications">
+        <item>Benadryl</item>
+        <item>Zyrtec</item>
+        <item>Prilosec</item>
+        <item>Pepcid</item>
+
+    </string-array>
+
+    <string-array name="chocolate">
+        <item>Milk Chocolate</item>
+        <item>Semi Sweet Chocolate</item>
+        <item>Dark Chocolate</item>
+        <item>Baking Chocolate</item>
+
+    </string-array>
+
 </resources>

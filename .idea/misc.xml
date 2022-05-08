@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/drawable/ic_dog_paw_with_heart_beat.xml" value="0.241" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/layout/activity_chocolate_toxicity.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/layout/activity_common_medication_doses.xml" value="0.22509057971014493" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/layout/activity_h202_page.xml" value="0.22509057971014493" />
         <entry key="..\:/Users/Janet/AndroidStudioProjects/VetNurse/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>

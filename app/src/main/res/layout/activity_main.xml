@@ -14,7 +14,31 @@
         android:layout_marginTop="128dp"
         android:text="Hydrogen Peroxide Dose To Induce Vomiting"
         android:clickable="true"
-        android:onClick="H202Page"
+        android:onClick="goToH202Page"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="24dp"
+        android:text="Common Medication Doses"
+        android:clickable="true"
+        android:onClick="goToCommonDosesPage"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="23dp"
+        android:text="Chocolate Toxicity Calculator"
+        android:clickable="true"
+        android:onClick="gotoChocolateToxicity"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button2" />
 </androidx.constraintlayout.widget.ConstraintLayout>
